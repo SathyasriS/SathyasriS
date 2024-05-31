@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SathyasriS
-- 👀 I’m interested in Datascience, Fullstack Development
-- 🌱 I’m currently learning Machine learning
-
+- 👀 I'm a blogger
+- 🌱 Crafting Compelling Narratives and Unlocking Data Insights | A Passionate Content Writer and Aspiring Data Scientist
 - 📫 How to reach me @SathyasriS
 - 😄 Pronouns: She/Her
 
